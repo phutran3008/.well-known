@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mergeball.fun",
+      "sha256_cert_fingerprints": [
+        "8C:09:66:B6:C2:FC:48:7B:3C:A6:5E:76:F7:BD:F8:1E:4F:B9:7D:75:95:44:FC:99:9A:28:5A:DB:DC:33:0B:CB"
+      ]
+    }
+  }
+]
